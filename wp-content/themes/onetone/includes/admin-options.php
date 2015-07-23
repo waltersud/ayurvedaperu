@@ -39,9 +39,9 @@ function optionsframework_options() {
 
 
 		
-	$section_title       = array("","About Us","Services","Gallery","Contact","Custom Section","");
-	$section_menu        = array("Home","About Us","Services","Gallery","Contact","Custom Section","");
-	$section_slug        = array('home','about-us','services','gallery','contact','custom-section','clients');
+	$section_title       = array("","About Us","Sobre Nosotros","Galeria","Contactanos","Campus Virtual","");
+	$section_menu        = array("Home","Sobre Nosotros","Servicios","Galeria","Contactanos","Campus Virtual","");
+	$section_slug        = array('home','Sobre Nosotros','Servicios','Galeria','Contactanos','Campus Virtual','clients');
 	$default_section_num = count($section_menu);
 	$section_num         = onetone_options_array('section_num');
 	$section_num         = $section_num == ""?7:$section_num;
@@ -93,7 +93,7 @@ function optionsframework_options() {
 	
 	
 	$section_content   = array('<div class="banner-box"><br/>
-        	<h1>TARAY BOGRILOYAT srians</h1>
+        	<h1>AYURVEDA PERU Dr. Ruben Devoto</h1>
 			<div class="sub-title">
             <span>CRAS URNA LEO, FRINGILLA NEC ALIQUAM AC, VARIUS IN ENIM. MAECENAS NON FELIS AUGUE, 
 QUIS SAGITTIS JUSTO. DONEC GRAVIDA, ARCU IN ALIQUET CONVALLIS</span></div>
