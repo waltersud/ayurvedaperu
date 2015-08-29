@@ -39,7 +39,7 @@ function optionsframework_options() {
 
 
 		
-	$section_title       = array("","Sobre Nosotros","Servicios","Galeria","Contactanos","Campus Virtual","");
+	$section_title       = array("","Sobre mi","Sobre Nosotros","Galeria","Contactanos","Campus Virtual","");
 	$section_menu        = array("Home","Sobre Nosotros","Servicios","Galeria","Contactanos","Campus Virtual","");
 	$section_slug        = array('home','Sobre Nosotros','Servicios','Galeria','Contactanos','Campus Virtual','clients');
 	$default_section_num = count($section_menu);
