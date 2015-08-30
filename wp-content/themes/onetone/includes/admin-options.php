@@ -108,22 +108,13 @@ function optionsframework_options() {
             </ul></div>
             </div>',
 			'<div class="two_third">
-            	<h3>Biography</h3>
-                <p>Morbi rutrum, elit ac fermentum egestas, tortor ante vestibulum est, eget 
-					scelerisque nisl velit eget tellus. Fusce porta facilisis luctus. Integer neque 
-					dolor, rhoncus nec euismod eget, pharetra et tortor. Nulla id pulvinar nunc. 
-					Vestibulum auctor nisl vel lectus ullamcorper sed pellentesque dolor 
-					eleifend. Praesent lobortis magna vel diam mattis sagittis.Mauris porta odio 
-					eu risus scelerisque id facilisis ipsum dictum vitae volutpat. Lorem ipsum 
-					dolor sit amet, consectetur adipiscing elit. Sed pulvinar neque eu purus 
-					sollicitudin et sollicitudin dui ultricies. Maecenas cursus auctor tellus sit 
-					amet blandit. Maecenas a erat ac nibh molestie interdum. Class aptent 
-					taciti sociosqu ad litora torquent per conubia nostra, per inceptos 
-					himenaeos. Sed lorem enim, ultricies sed sodales id, convallis molestie 
-					ipsum. Morbi eget dolor ligula. Vivamus accumsan rutrum nisi nec 
-					elementum. Pellentesque at nunc risus. Phasellus ullamcorper 
-					bibendum varius. Quisque quis ligula sit amet felis ornare porta. Aenean 
-					viverra lacus et mi elementum mollis. Praesent eu justo elit.</p>
+            	<h3>Dedicatorias </h3>
+                <p> Quiero expresar mi más humilde y respetuosa reverencia a mi
+querido Maestro de Bhakti Yoga Su Santidad Jayapataka Swami Maharaja, de la sociedad
+Internacional para la Conciencia de Krishna , a quien conocí en 1982 con el 
+titulo de Srila Acaryapada y quien me dio iniciacion en este conocimiento,
+uniéndome a una línea de tradición milenaria y autoritativa que se conoce como Brahma
+Madva Gaudiya Sampradaya.  </p>
             </div>
             <div class="one_third last">
             	<h3>Información Personal</h3>
@@ -165,10 +156,10 @@ a la altura de La IBM, en La Molina</li>
 			</div>',
 			'<div class="portfolio-list">
         		<ul>
-            		<li><a href="#"><img class="port-img" src="'.ONETONE_THEME_BASE_URL.'/images/g1.jpg"></a></li>
-                	<li><a href="#"><img class="port-img" src="'.ONETONE_THEME_BASE_URL.'/images/g2.jpg"></a></li>
-               		<li><a href="#"><img class="port-img" src="'.ONETONE_THEME_BASE_URL.'/images/g3.jpg"></a></li>
-               		<li><a href="#"><img class="port-img" src="'.ONETONE_THEME_BASE_URL.'/images/g4.jpg"></a></li>
+            		<li><a href="https://www.youtube.com/watch?v=B1se7MCq78s"><img class="port-img" src="//i.ytimg.com/vi/B1se7MCq78s/mqdefault.jpg"></a></li>
+                	<li><a href="https://www.youtube.com/watch?v=EKk5EA48V9o"><img class="port-img" src="//i.ytimg.com/vi/EKk5EA48V9o/mqdefault.jpg"></a></li>
+               		<li><a href="https://www.youtube.com/watch?v=i-3oAHrRRTw"><img class="port-img" src="//i.ytimg.com/vi/i-3oAHrRRTw/mqdefault.jpg"></a></li>
+               		<li><a href="https://www.youtube.com/watch?v=WX9lY6-mtkc"><img class="port-img" src="//i.ytimg.com/vi/WX9lY6-mtkc/mqdefault.jpg"></a></li>
                		<li><a href="#"><img class="port-img" src="'.ONETONE_THEME_BASE_URL.'/images/g5.jpg"></a></li>
                		<li><a href="#"><img class="port-img" src="'.ONETONE_THEME_BASE_URL.'/images/g6.jpg"></a></li>
                		<li><a href="#"><img class="port-img" src="'.ONETONE_THEME_BASE_URL.'/images/g7.jpg"></a></li>
